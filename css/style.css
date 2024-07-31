@@ -21,4 +21,34 @@ a {
 
 .no-scroll {
   overflow: hidden;
+}
+
+a.active {
+  color: #FA4A0C;
+}
+
+.order {
+  background-image: url("../../img/order-bgr@1x.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 80px;
+  padding-bottom: 160px;
+}
+
+.btn-my-delivery {
+  background-color: #FA4A0C !important;
+  border-color: #FA4A0C !important;
+  color: white !important;
+}
+
+.ordernow {
+  background-image: url("../../img/ordernow-bgr@1x.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.appwork-subtitle {
+  color: #FA4A0C;
 }/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,25 @@
+a.active {
+    color: $active-item-color;
+}
+.order {
+    background-image: url("../../img/order-bgr@1x.png") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 80px;
+    padding-bottom: 160px;
+}
+.btn-my-delivery {
+    background-color: $active-item-color !important;
+    border-color: $active-item-color !important;
+    color: white !important;
+}
+.ordernow {
+    background-image: url("../../img/ordernow-bgr@1x.png") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.appwork-subtitle {
+    color: $active-item-color;
+}
