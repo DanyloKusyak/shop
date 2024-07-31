@@ -28,7 +28,7 @@ a.active {
 }
 
 .order {
-  background-image: url("../../img/order-bgr@1x.png");
+  background-image: url("./img/order-bgr@1x.png");
   background-repeat: no-repeat;
   background-size: 100%;
   padding-top: 80px;
@@ -42,7 +42,7 @@ a.active {
 }
 
 .ordernow {
-  background-image: url("../../img/ordernow-bgr@1x.png");
+  background-image: url("./img/ordernow-bgr@1x.png");
   background-repeat: no-repeat;
   background-size: 100%;
   padding-top: 150px;
